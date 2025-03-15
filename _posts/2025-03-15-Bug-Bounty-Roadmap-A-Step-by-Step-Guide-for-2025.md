@@ -4,8 +4,6 @@ date: 2025-03-15
 description: "A practical guide to approaching a bug bounty target, finding vulnerabilities, and exploiting common bugs in 2025."
 ---
 
-# Bug Bounty Roadmap: A Step-by-Step Guide for 2025
-
 Bug bounty hunting remains a lucrative and exciting field in 2025. This guide provides a structured approach to hacking a target, the types of vulnerabilities that are still common, and how to exploit them. 
 
 ## 1. Understanding the Target
